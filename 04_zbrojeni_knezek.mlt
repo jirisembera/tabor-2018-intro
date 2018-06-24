@@ -138,7 +138,7 @@
     <property name="shotcut:hash">960079356918ba1e5bec74d1fed5de79</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9607.MP4 (3x)</property>
+    <property name="shotcut:caption">video/04/MVI_9607.MP4 (3x)</property>
     <property name="shotcut:detail">video/04/MVI_9607.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -279,7 +279,7 @@
     <entry producer="producer12" in="00:00:19,800" out="00:00:22,840"/>
     <entry producer="producer13" in="00:00:25,220" out="00:00:27,560"/>
   </playlist>
-  <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:00:18,160">
+  <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <track producer="background"/>
@@ -294,7 +294,8 @@
     <transition id="transition1">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
-      <property name="mlt_service">movit.overlay</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
       <property name="disable">1</property>
     </transition>
   </tractor>
