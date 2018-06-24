@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="cs_CZ" version="6.9.0" title="Shotcut version 18.06.02" producer="main bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="50" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:01:10,540">
+    <property name="length">00:01:10,560</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/00087.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">5e2d63787d144260051c2e4413a669eb</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:00:26,380">
+    <property name="length">00:00:26,400</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/00088.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">06f6db734994e6811016f2a36b5bacb4</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="00:00:09,780">
+    <property name="length">00:00:09,800</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9615.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:00:25,700">
+    <property name="length">00:00:25,720</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9616.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">409ede62f62c42f1a642f80ba8145d36</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00,000" out="00:00:38,180">
+    <property name="length">00:00:38,200</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9617.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3e1c1b898a64351a3fc387aa02505e7b</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00,000" out="00:01:05,680">
+    <property name="length">00:01:05,700</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9618.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00,000" out="00:00:05,820">
+    <property name="length">00:00:05,840</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9619.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c57c680e6edde56ea9465500757d52ee</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00,000" out="00:00:08,980">
+    <property name="length">00:00:09,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9620.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d3c63d305bb98be8c50ce8d5a0b8583c</property>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00,000" out="00:00:09,080">
+    <property name="length">00:00:09,100</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9621.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ec749e4af5d0c8ce1a38b149934f6524</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00,000" out="00:00:06,980">
+    <property name="length">00:00:07,000</property>
+    <property name="eof">pause</property>
+    <property name="resource">video/01/MVI_9622.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">466cba5d67955d12e11baa820f6c65e8</property>
+  </producer>
+  <playlist id="main bin" title="Shotcut version 18.06.02">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00,000" out="00:01:10,540"/>
+    <entry producer="producer1" in="00:00:00,000" out="00:00:26,380"/>
+    <entry producer="producer2" in="00:00:00,000" out="00:00:09,780"/>
+    <entry producer="producer3" in="00:00:00,000" out="00:00:25,700"/>
+    <entry producer="producer4" in="00:00:00,000" out="00:00:38,180"/>
+    <entry producer="producer5" in="00:00:00,000" out="00:01:05,680"/>
+    <entry producer="producer6" in="00:00:00,000" out="00:00:05,820"/>
+    <entry producer="producer7" in="00:00:00,000" out="00:00:08,980"/>
+    <entry producer="producer8" in="00:00:00,000" out="00:00:09,080"/>
+    <entry producer="producer9" in="00:00:00,000" out="00:00:06,980"/>
+  </playlist>
+  <producer id="black" in="00:00:00,000" out="00:00:18,300">
+    <property name="length">00:00:18,320</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00,000" out="00:00:18,300"/>
+  </playlist>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00,000" out="00:00:01,740">
+    <property name="length">00:00:01,760</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:video/01/MVI_9622.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">video/01/MVI_9622.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">466cba5d67955d12e11baa820f6c65e8</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9622.MP4 (4x)</property>
+    <property name="shotcut:detail">video/01/MVI_9622.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00,000" out="00:00:02,440">
+    <property name="length">00:00:02,460</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:video/01/MVI_9615.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">video/01/MVI_9615.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9615.MP4 (4x)</property>
+    <property name="shotcut:detail">video/01/MVI_9615.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,200">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer10" in="00:00:01,280" out="00:00:01,480"/>
+    <track producer="producer11" in="00:00:00,000" out="00:00:00,200"/>
+    <transition id="transition0" out="00:00:00,200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1" out="00:00:00,200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00,000" out="00:00:02,440">
+    <property name="length">00:00:02,460</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:video/01/MVI_9615.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">video/01/MVI_9615.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9615.MP4 (4x)</property>
+    <property name="shotcut:detail">video/01/MVI_9615.MP4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter0" out="00:00:02,220">
+      <property name="delta">14</property>
+      <property name="every">20</property>
+      <property name="brightnessdelta_up">20</property>
+      <property name="brightnessdelta_down">30</property>
+      <property name="brightnessdelta_every">84</property>
+      <property name="unevendevelop_up">60</property>
+      <property name="unevendevelop_down">20</property>
+      <property name="unevendevelop_duration">70</property>
+      <property name="mlt_service">oldfilm</property>
+    </filter>
+  </producer>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00,000" out="00:00:09,540">
+    <property name="length">00:00:09,560</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:video/01/MVI_9617.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">video/01/MVI_9617.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">3e1c1b898a64351a3fc387aa02505e7b</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9617.MP4 (4x)</property>
+    <property name="shotcut:detail">video/01/MVI_9617.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,200">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer12" in="00:00:02,240" out="00:00:02,440"/>
+    <track producer="producer13" in="00:00:02,620" out="00:00:02,820"/>
+    <transition id="transition2" out="00:00:00,200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00,200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00,000" out="00:00:16,400">
+    <property name="length">00:00:16,420</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:video/01/MVI_9618.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">video/01/MVI_9618.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9618.MP4 (4x)</property>
+    <property name="shotcut:detail">video/01/MVI_9618.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor2" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,240">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer13" in="00:00:09,300" out="00:00:09,540"/>
+    <track producer="producer14" in="00:00:00,000" out="00:00:00,240"/>
+    <transition id="transition4" out="00:00:00,240">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition5" out="00:00:00,240">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00,000" out="00:00:16,400">
+    <property name="length">00:00:16,420</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:video/01/MVI_9618.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">video/01/MVI_9618.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9618.MP4 (4x)</property>
+    <property name="shotcut:detail">video/01/MVI_9618.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <tractor id="tractor3" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,240">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer15" in="00:00:02,020" out="00:00:02,260"/>
+    <track producer="producer14" in="00:00:10,320" out="00:00:10,560"/>
+    <transition id="transition6" out="00:00:00,240">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition7" out="00:00:00,240">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer10" in="00:00:00,000" out="00:00:01,260"/>
+    <entry producer="tractor0" in="00:00:00,000" out="00:00:00,200"/>
+    <entry producer="producer11" in="00:00:00,220" out="00:00:02,220"/>
+    <entry producer="tractor1" in="00:00:00,000" out="00:00:00,200"/>
+    <entry producer="producer13" in="00:00:02,840" out="00:00:09,280"/>
+    <entry producer="tractor2" in="00:00:00,000" out="00:00:00,240"/>
+    <entry producer="producer15" in="00:00:00,260" out="00:00:02,000"/>
+    <entry producer="tractor3" in="00:00:00,000" out="00:00:00,240"/>
+    <entry producer="producer14" in="00:00:10,580" out="00:00:16,400"/>
+  </playlist>
+  <tractor id="tractor4" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:00:18,300">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:scaleFactor">1,01</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
