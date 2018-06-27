@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="en_GB" version="6.9.0" title="Shotcut version 18.06.02" producer="main bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="50" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:01:10.540">
+    <property name="length">00:01:10.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/00087.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">5e2d63787d144260051c2e4413a669eb</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
+    <property name="length">00:00:26.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">06f6db734994e6811016f2a36b5bacb4</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:00:09.780">
+    <property name="length">00:00:09.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:00:25.700">
+    <property name="length">00:00:25.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9616.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">409ede62f62c42f1a642f80ba8145d36</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:38.180">
+    <property name="length">00:00:38.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9617.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3e1c1b898a64351a3fc387aa02505e7b</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:01:05.680">
+    <property name="length">00:01:05.700</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:00:05.820">
+    <property name="length">00:00:05.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9619.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c57c680e6edde56ea9465500757d52ee</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.980">
+    <property name="length">00:00:09.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9620.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d3c63d305bb98be8c50ce8d5a0b8583c</property>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="00:00:09.080">
+    <property name="length">00:00:09.100</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9621.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ec749e4af5d0c8ce1a38b149934f6524</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="00:00:06.980">
+    <property name="length">00:00:07.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9622.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">466cba5d67955d12e11baa820f6c65e8</property>
+  </producer>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="00:01:11.020">
+    <property name="length">00:01:11.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">3a98944cb5ad9a1ce1fa7e1d2a678855</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="00:00:52.780">
+    <property name="length">00:00:52.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/02/00073.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">11fbbbec3f5f26471cb19867e79b4a3d</property>
+  </producer>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="00:01:05.140">
+    <property name="length">00:01:05.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">86753751a00f6c31b5b1bded8cc23ae8</property>
+  </producer>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="00:00:55.500">
+    <property name="length">00:00:55.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/02/MVI_9582.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b8a064af1587cb6b5f606a7984399153</property>
+  </producer>
+  <producer id="producer14" title="Anonymous Submission" in="00:00:00.000" out="00:00:02.380">
+    <property name="length">00:00:02.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/03/00079.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">52939220428c6ec6a6f5421c74fe1aab</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00.000" out="00:00:43.660">
+    <property name="length">00:00:43.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/03/00080.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4ec93be1f8b9db0a7fe40937acc6729b</property>
+  </producer>
+  <producer id="producer16" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
+    <property name="length">00:00:26.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/03/00081.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">88b6274b097618c6174a7e4c72090a3c</property>
+  </producer>
+  <producer id="producer17" title="Anonymous Submission" in="00:00:00.000" out="00:01:08.540">
+    <property name="length">00:01:08.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/03/MVI_9602.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7f6d371139b7506d95c62be5ec4f2fe1</property>
+  </producer>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.820">
+    <property name="length">00:00:08.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/03/MVI_9603.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d850db41ba6047a8e81d6c849623d7ab</property>
+  </producer>
+  <producer id="producer19" title="Anonymous Submission" in="00:00:00.000" out="00:00:24.240">
+    <property name="length">00:00:24.260</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/03/MVI_9604.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b1db55474337350623ae26aba750a2c4</property>
+  </producer>
+  <producer id="producer20" title="Anonymous Submission" in="00:00:00.000" out="00:01:01.900">
+    <property name="length">00:01:01.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/00082.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">a5ee38558347b4312b34cfc60c298108</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer21" title="Anonymous Submission" in="00:00:00.000" out="00:01:17.260">
+    <property name="length">00:01:17.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/00083.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">96c84b5e7c2863d50bac00c16999cb0e</property>
+  </producer>
+  <producer id="producer22" title="Anonymous Submission" in="00:00:00.000" out="00:00:19.660">
+    <property name="length">00:00:19.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/00084.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">80e4c6886d6708835262adfea3711246</property>
+  </producer>
+  <producer id="producer23" title="Anonymous Submission" in="00:00:00.000" out="00:00:33.580">
+    <property name="length">00:00:33.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/00085.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3e4f1a81dd61613b848333406de45c89</property>
+  </producer>
+  <producer id="producer24" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.860">
+    <property name="length">00:00:26.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/00086.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2b9076bfa8b78218cd730191897dc8e8</property>
+  </producer>
+  <producer id="producer25" title="Anonymous Submission" in="00:00:00.000" out="00:01:12.880">
+    <property name="length">00:01:12.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/MVI_9605.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e413ab97062ad7798d0fb93028327df6</property>
+  </producer>
+  <producer id="producer26" title="Anonymous Submission" in="00:00:00.000" out="00:01:22.720">
+    <property name="length">00:01:22.740</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/MVI_9607.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">960079356918ba1e5bec74d1fed5de79</property>
+  </producer>
+  <producer id="producer27" title="Anonymous Submission" in="00:00:00.000" out="00:00:33.640">
+    <property name="length">00:00:33.660</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/MVI_9608.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f3baed0ebf9a5635ae6a692f991eec14</property>
+  </producer>
+  <producer id="producer28" title="Anonymous Submission" in="00:00:00.000" out="00:00:14.300">
+    <property name="length">00:00:14.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/04/MVI_9613.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">55c02770b351781b6514d6042fc411f1</property>
+  </producer>
+  <producer id="producer29" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.900">
+    <property name="length">00:00:13.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/06/00066.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">38ea34e284ee0d301c52e3d3262906f2</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer30" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.900">
+    <property name="length">00:00:13.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/06/00067.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0a8c1f2d423104c3b2a72240939401f5</property>
+  </producer>
+  <producer id="producer31" title="Anonymous Submission" in="00:00:00.000" out="00:00:34.060">
+    <property name="length">00:00:34.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/06/00068.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f1cc85691ac17ff168ba5a52c6a5f203</property>
+  </producer>
+  <producer id="producer32" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.780">
+    <property name="length">00:00:28.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/06/00069.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7e2cbd52e10f36b5e9e4075311135855</property>
+  </producer>
+  <producer id="producer33" title="Anonymous Submission" in="00:00:00.000" out="00:00:12.460">
+    <property name="length">00:00:12.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/07/00053.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">64a19897c659fedaf3ba1350f985b58a</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer34" title="Anonymous Submission" in="00:00:00.000" out="00:01:24.460">
+    <property name="length">00:01:24.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/07/00054.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">21a6a9e3a6a17d984d2355443339ef8d</property>
+  </producer>
+  <producer id="producer35" title="Anonymous Submission" in="00:00:00.000" out="00:00:50.380">
+    <property name="length">00:00:50.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/07/00055.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">cdfabccf32aa2a08f593fdefa163223e</property>
+  </producer>
+  <producer id="producer36" title="Anonymous Submission" in="00:00:00.000" out="00:00:15.600">
+    <property name="length">00:00:15.620</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/07/MVI_9477.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3aea8994006ed79bce703b4d8ce274be</property>
+  </producer>
+  <producer id="producer37" title="Anonymous Submission" in="00:00:00.000" out="00:01:30.060">
+    <property name="length">00:01:30.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/07/MVI_9478.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">67030e791e9cce84dbfefbc39887bfa4</property>
+  </producer>
+  <producer id="producer38" title="Anonymous Submission" in="00:00:00.000" out="00:00:44.060">
+    <property name="length">00:00:44.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/07/MVI_9480.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d04d9d7f6e10c4d27a6ba577af6467d5</property>
+  </producer>
+  <producer id="producer39" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
+    <property name="length">00:00:26.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/00060.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">4d6003f1a01bce2fe6b958059ff6336f</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer40" title="Anonymous Submission" in="00:00:00.000" out="00:00:31.180">
+    <property name="length">00:00:31.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/00061.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8048e135ab6afb79a5b6dad26ecb3697</property>
+  </producer>
+  <producer id="producer41" title="Anonymous Submission" in="00:00:00.000" out="00:00:10.060">
+    <property name="length">00:00:10.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/00062.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">96597ae497c6111d959abb24ffb1811c</property>
+  </producer>
+  <producer id="producer42" title="Anonymous Submission" in="00:00:00.000" out="00:00:31.180">
+    <property name="length">00:00:31.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/00063.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">922fe9246b83da8f3504b37eb68f411e</property>
+  </producer>
+  <producer id="producer43" title="Anonymous Submission" in="00:00:00.000" out="00:00:44.140">
+    <property name="length">00:00:44.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/00064.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">af86248aa6d1c4d386e150b4861cbb11</property>
+  </producer>
+  <producer id="producer44" title="Anonymous Submission" in="00:00:00.000" out="00:00:30.700">
+    <property name="length">00:00:30.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/00065.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5215310720f408ab8a0a8222fcb0462c</property>
+  </producer>
+  <producer id="producer45" title="Anonymous Submission" in="00:00:00.000" out="00:00:16.200">
+    <property name="length">00:00:16.220</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9512.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">07f3e6200878402ab08b79d369c40d64</property>
+  </producer>
+  <producer id="producer46" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.980">
+    <property name="length">00:00:27.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9513.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">18f12669e7585ac6ce2a68b3ada2a62e</property>
+  </producer>
+  <producer id="producer47" title="Anonymous Submission" in="00:00:00.000" out="00:00:33.240">
+    <property name="length">00:00:33.260</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9517.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8e62f0d3f8273a94abef66dcb0470609</property>
+  </producer>
+  <producer id="producer48" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.040">
+    <property name="length">00:00:01.060</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9520.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c3a7a290eaffe998f6861515c9c48546</property>
+  </producer>
+  <producer id="producer49" title="Anonymous Submission" in="00:00:00.000" out="00:00:39.360">
+    <property name="length">00:00:39.380</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9521.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">eb480ba5bac2acb16051b560fa7cfbcc</property>
+  </producer>
+  <producer id="producer50" title="Anonymous Submission" in="00:00:00.000" out="00:00:33.240">
+    <property name="length">00:00:33.260</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9522.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3ec2ddda7ba08b0890cca14717f9bbe8</property>
+  </producer>
+  <producer id="producer51" title="Anonymous Submission" in="00:00:00.000" out="00:00:32.340">
+    <property name="length">00:00:32.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9523.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b0b2a40d527c75fbb14afe53b03f3c01</property>
+  </producer>
+  <producer id="producer52" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.040">
+    <property name="length">00:00:01.060</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/08/MVI_9530.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fb78489ddd0c95f390fa24ee36edb30b</property>
+  </producer>
+  <producer id="producer53" title="Anonymous Submission" in="00:00:00.000" out="00:00:44.140">
+    <property name="length">00:00:44.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/09/00048.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">7e8ef354ab5578a37d436581f59c3251</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer54" title="Anonymous Submission" in="00:00:00.000" out="00:00:25.420">
+    <property name="length">00:00:25.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/09/00049.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">cd3c44c81fff6635c3b8be3b41ee014b</property>
+  </producer>
+  <producer id="producer55" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.920">
+    <property name="length">00:00:01.940</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/09/MVI_9468.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6112af6b617f64f7e20e412586bcc8c3</property>
+  </producer>
+  <producer id="producer56" title="Anonymous Submission" in="00:00:00.000" out="00:00:44.460">
+    <property name="length">00:00:44.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/09/MVI_9470.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9834552b66ed70dbe9d4e74b9abd9a93</property>
+  </producer>
+  <producer id="producer57" title="Anonymous Submission" in="00:00:00.000" out="00:01:03.200">
+    <property name="length">00:01:03.220</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/09/MVI_9472.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">974757924174cf6efb47f7bb30efb977</property>
+  </producer>
+  <producer id="producer58" title="Anonymous Submission" in="00:00:00.000" out="00:00:29.740">
+    <property name="length">00:00:29.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/00031.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">560c08112475096271d9717c26a4d905</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer59" title="Anonymous Submission" in="00:00:00.000" out="00:00:31.660">
+    <property name="length">00:00:31.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/00032.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4d135360e176aaeba5dcbd8dc1a9cc94</property>
+  </producer>
+  <producer id="producer60" title="Anonymous Submission" in="00:00:00.000" out="00:00:37.420">
+    <property name="length">00:00:37.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/00033.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c4d8fc46a82594938314b57fb4a76971</property>
+  </producer>
+  <producer id="producer61" title="Anonymous Submission" in="00:00:00.000" out="00:00:20.000">
+    <property name="length">00:00:20.020</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/MVI_9449.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fac0649b645b8e0efdcf47dd8a505ce0</property>
+  </producer>
+  <producer id="producer62" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.180">
+    <property name="length">00:00:28.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/MVI_9450.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d983148f00baad037a9db4608405a3fd</property>
+  </producer>
+  <producer id="producer63" title="Anonymous Submission" in="00:00:00.000" out="00:00:28.340">
+    <property name="length">00:00:28.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/MVI_9452.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d1858a664b5a541db931b447c4b944ed</property>
+  </producer>
+  <producer id="producer64" title="Anonymous Submission" in="00:00:00.000" out="00:00:39.280">
+    <property name="length">00:00:39.300</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/MVI_9453.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3008255fcdf988f0cc6a40fb06c4af37</property>
+  </producer>
+  <producer id="producer65" title="Anonymous Submission" in="00:00:00.000" out="00:00:33.920">
+    <property name="length">00:00:33.940</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/10/MVI_9454.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0262b0629d2e35b52a60169593ba1624</property>
+  </producer>
+  <producer id="producer66" title="Anonymous Submission" in="00:00:00.000" out="00:01:39.820">
+    <property name="length">00:01:39.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/00040.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">6d820968168334db8b5d166c582508c1</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer67" title="Anonymous Submission" in="00:00:00.000" out="00:00:05.260">
+    <property name="length">00:00:05.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/00041.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b78928e220b5b036e236e73ac87086ce</property>
+  </producer>
+  <producer id="producer68" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.180">
+    <property name="length">00:00:07.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/00042.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3ba78d4a0d32632c4034b3e0979fcf0f</property>
+  </producer>
+  <producer id="producer69" title="Anonymous Submission" in="00:00:00.000" out="00:01:17.260">
+    <property name="length">00:01:17.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/00043.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">05d17da336d7e837d6c022ad2f2f05da</property>
+  </producer>
+  <producer id="producer70" title="Anonymous Submission" in="00:00:00.000" out="00:00:11.500">
+    <property name="length">00:00:11.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/00044.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">035e37042004c41bbaca698e4991736a</property>
+  </producer>
+  <producer id="producer71" title="Anonymous Submission" in="00:00:00.000" out="00:01:42.780">
+    <property name="length">00:01:42.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/MVI_9466.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">14ce522528c065a24677f028d0978e10</property>
+  </producer>
+  <producer id="producer72" title="Anonymous Submission" in="00:00:00.000" out="00:01:21.900">
+    <property name="length">00:01:21.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/11/MVI_9467.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">21bbc7b9cb87c66ab226d47c3aef9610</property>
+  </producer>
+  <producer id="producer73" title="Anonymous Submission" in="00:00:00.000" out="00:01:28.300">
+    <property name="length">00:01:28.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/12/00050.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">8990c0f943b2810ab09fbbb660f45119</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer74" title="Anonymous Submission" in="00:00:00.000" out="00:00:42.220">
+    <property name="length">00:00:42.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/12/00051.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">22d790a452727b4733e0664e4cb7ac0d</property>
+  </producer>
+  <producer id="producer75" title="Anonymous Submission" in="00:00:00.000" out="00:01:03.820">
+    <property name="length">00:01:03.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/12/00052.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6e3e4af0cb798c27eeda8af089f0a659</property>
+  </producer>
+  <producer id="producer76" title="Anonymous Submission" in="00:00:00.000" out="00:00:18.700">
+    <property name="length">00:00:18.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/13/00070.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">2411db4b5b6913bb1672a2940dc166a1</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer77" title="Anonymous Submission" in="00:00:00.000" out="00:00:25.900">
+    <property name="length">00:00:25.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/13/00071.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">578de004a549748e8c1b2e62969246dc</property>
+  </producer>
+  <producer id="producer78" title="Anonymous Submission" in="00:00:00.000" out="00:00:23.740">
+    <property name="length">00:00:23.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/13/MVI_9572.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">54a30ef93510524c380e79e81ed48efd</property>
+  </producer>
+  <producer id="producer79" title="Anonymous Submission" in="00:00:00.000" out="00:00:01.520">
+    <property name="length">00:00:01.540</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/13/MVI_9573.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5ae419219bab2bba0f673442e194d65f</property>
+  </producer>
+  <producer id="producer80" title="Anonymous Submission" in="00:00:00.000" out="00:00:22.040">
+    <property name="length">00:00:22.060</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/13/MVI_9574.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5b2172c0107b6a62945a877ef11645fb</property>
+  </producer>
+  <producer id="producer81" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.200">
+    <property name="length">00:00:26.220</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/13/MVI_9577.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">01203a27f414db3dbe1245b30487a708</property>
+  </producer>
+  <producer id="producer82" title="Anonymous Submission" in="00:00:00.000" out="00:00:19.660">
+    <property name="length">00:00:19.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/00034.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">e2140169de8658c5608b980978ec15f0</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer83" title="Anonymous Submission" in="00:00:00.000" out="00:00:46.540">
+    <property name="length">00:00:46.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/00035.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">89ae81fbf527fad3db16a2199dc0f87a</property>
+  </producer>
+  <producer id="producer84" title="Anonymous Submission" in="00:00:00.000" out="00:01:11.500">
+    <property name="length">00:01:11.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/00036.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c0fd5f0f53c02c613fc923bb17a5a44d</property>
+  </producer>
+  <producer id="producer85" title="Anonymous Submission" in="00:00:00.000" out="00:00:45.100">
+    <property name="length">00:00:45.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/00037.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">95893b7b8be8aedacb1c8ad132d8989a</property>
+  </producer>
+  <producer id="producer86" title="Anonymous Submission" in="00:00:00.000" out="00:00:55.660">
+    <property name="length">00:00:55.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/00038.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b7947b509c095cf26ac9fd18aba63e38</property>
+  </producer>
+  <producer id="producer87" title="Anonymous Submission" in="00:00:00.000" out="00:00:20.140">
+    <property name="length">00:00:20.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/00039.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c500b71154c2727bf3b6d1f72006f0df</property>
+  </producer>
+  <producer id="producer88" title="Anonymous Submission" in="00:00:00.000" out="00:00:17.600">
+    <property name="length">00:00:17.620</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9455.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">14040c6626e57352b0b14947159f102f</property>
+  </producer>
+  <producer id="producer89" title="Anonymous Submission" in="00:00:00.000" out="00:00:10.160">
+    <property name="length">00:00:10.180</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9456.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f18ba1d6b07cdcbdbfa7b9763aea8aec</property>
+  </producer>
+  <producer id="producer90" title="Anonymous Submission" in="00:00:00.000" out="00:00:21.240">
+    <property name="length">00:00:21.260</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9457.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b0c7ba5e19f1f9c2ad619fce19849d7d</property>
+  </producer>
+  <producer id="producer91" title="Anonymous Submission" in="00:00:00.000" out="00:00:53.300">
+    <property name="length">00:00:53.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9458.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f098937bf676cdf76e6f99ff3a4ec1ab</property>
+  </producer>
+  <producer id="producer92" title="Anonymous Submission" in="00:00:00.000" out="00:01:19.260">
+    <property name="length">00:01:19.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9459.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8fa6103ce0c751091e44c0e61c555e7c</property>
+  </producer>
+  <producer id="producer93" title="Anonymous Submission" in="00:00:00.000" out="00:00:46.660">
+    <property name="length">00:00:46.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9460.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e338b4463bc5880d80a53747071e9223</property>
+  </producer>
+  <producer id="producer94" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.080">
+    <property name="length">00:00:04.100</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9461.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4de885fb7513bc75bb5cf1314928464d</property>
+  </producer>
+  <producer id="producer95" title="Anonymous Submission" in="00:00:00.000" out="00:00:56.940">
+    <property name="length">00:00:56.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9462.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab9c2dc899fe0b59c1ba5c7d50d3b041</property>
+  </producer>
+  <producer id="producer96" title="Anonymous Submission" in="00:00:00.000" out="00:00:22.760">
+    <property name="length">00:00:22.780</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/14/MVI_9463.MP4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f4ac7f7c2edd12ade4ea07ba51513080</property>
+  </producer>
+  <producer id="producer97" title="Anonymous Submission" in="00:00:00.000" out="00:00:06.700">
+    <property name="length">00:00:06.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/16/00089.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">38f3f0e955097206036bc2b6624b361f</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer98" title="Anonymous Submission" in="00:00:00.000" out="00:00:07.660">
+    <property name="length">00:00:07.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/16/00090.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">26455dcb8c16f9cca6edb9e9d448575c</property>
+  </producer>
+  <producer id="producer99" title="Anonymous Submission" in="00:00:00.000" out="00:01:45.100">
+    <property name="length">00:01:45.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/16/00091.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">407935578088a90660d823f0ff11444c</property>
+  </producer>
+  <producer id="producer100" title="Anonymous Submission" in="00:00:00.000" out="00:00:24.940">
+    <property name="length">00:00:24.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/16/00092.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c5e0d3b155c91b3055aa042cd4527479</property>
+  </producer>
+  <producer id="producer101" title="Anonymous Submission" in="00:00:00.000" out="00:00:47.500">
+    <property name="length">00:00:47.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">H:\data\tabor\2018\intro/video/16/00093.MTS</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f4319687597654df8f80edb81f5eec94</property>
+  </producer>
+  <playlist id="main bin" title="Shotcut version 18.06.02">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:01:10.540"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:26.380"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:09.780"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:25.700"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:38.180"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:01:05.680"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:05.820"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:08.980"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:09.080"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:06.980"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:01:11.020"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:52.780"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:01:05.140"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:55.500"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:02.380"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:43.660"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:26.380"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:01:08.540"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:08.820"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:24.240"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:01:01.900"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:01:17.260"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:19.660"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:33.580"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:26.860"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:01:12.880"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:01:22.720"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:33.640"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:00:14.300"/>
+    <entry producer="producer29" in="00:00:00.000" out="00:00:13.900"/>
+    <entry producer="producer30" in="00:00:00.000" out="00:00:13.900"/>
+    <entry producer="producer31" in="00:00:00.000" out="00:00:34.060"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:28.780"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:00:12.460"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:01:24.460"/>
+    <entry producer="producer35" in="00:00:00.000" out="00:00:50.380"/>
+    <entry producer="producer36" in="00:00:00.000" out="00:00:15.600"/>
+    <entry producer="producer37" in="00:00:00.000" out="00:01:30.060"/>
+    <entry producer="producer38" in="00:00:00.000" out="00:00:44.060"/>
+    <entry producer="producer39" in="00:00:00.000" out="00:00:26.380"/>
+    <entry producer="producer40" in="00:00:00.000" out="00:00:31.180"/>
+    <entry producer="producer41" in="00:00:00.000" out="00:00:10.060"/>
+    <entry producer="producer42" in="00:00:00.000" out="00:00:31.180"/>
+    <entry producer="producer43" in="00:00:00.000" out="00:00:44.140"/>
+    <entry producer="producer44" in="00:00:00.000" out="00:00:30.700"/>
+    <entry producer="producer45" in="00:00:00.000" out="00:00:16.200"/>
+    <entry producer="producer46" in="00:00:00.000" out="00:00:26.980"/>
+    <entry producer="producer47" in="00:00:00.000" out="00:00:33.240"/>
+    <entry producer="producer48" in="00:00:00.000" out="00:00:01.040"/>
+    <entry producer="producer49" in="00:00:00.000" out="00:00:39.360"/>
+    <entry producer="producer50" in="00:00:00.000" out="00:00:33.240"/>
+    <entry producer="producer51" in="00:00:00.000" out="00:00:32.340"/>
+    <entry producer="producer52" in="00:00:00.000" out="00:00:01.040"/>
+    <entry producer="producer53" in="00:00:00.000" out="00:00:44.140"/>
+    <entry producer="producer54" in="00:00:00.000" out="00:00:25.420"/>
+    <entry producer="producer55" in="00:00:00.000" out="00:00:01.920"/>
+    <entry producer="producer56" in="00:00:00.000" out="00:00:44.460"/>
+    <entry producer="producer57" in="00:00:00.000" out="00:01:03.200"/>
+    <entry producer="producer58" in="00:00:00.000" out="00:00:29.740"/>
+    <entry producer="producer59" in="00:00:00.000" out="00:00:31.660"/>
+    <entry producer="producer60" in="00:00:00.000" out="00:00:37.420"/>
+    <entry producer="producer61" in="00:00:00.000" out="00:00:20.000"/>
+    <entry producer="producer62" in="00:00:00.000" out="00:00:28.180"/>
+    <entry producer="producer63" in="00:00:00.000" out="00:00:28.340"/>
+    <entry producer="producer64" in="00:00:00.000" out="00:00:39.280"/>
+    <entry producer="producer65" in="00:00:00.000" out="00:00:33.920"/>
+    <entry producer="producer66" in="00:00:00.000" out="00:01:39.820"/>
+    <entry producer="producer67" in="00:00:00.000" out="00:00:05.260"/>
+    <entry producer="producer68" in="00:00:00.000" out="00:00:07.180"/>
+    <entry producer="producer69" in="00:00:00.000" out="00:01:17.260"/>
+    <entry producer="producer70" in="00:00:00.000" out="00:00:11.500"/>
+    <entry producer="producer71" in="00:00:00.000" out="00:01:42.780"/>
+    <entry producer="producer72" in="00:00:00.000" out="00:01:21.900"/>
+    <entry producer="producer73" in="00:00:00.000" out="00:01:28.300"/>
+    <entry producer="producer74" in="00:00:00.000" out="00:00:42.220"/>
+    <entry producer="producer75" in="00:00:00.000" out="00:01:03.820"/>
+    <entry producer="producer76" in="00:00:00.000" out="00:00:18.700"/>
+    <entry producer="producer77" in="00:00:00.000" out="00:00:25.900"/>
+    <entry producer="producer78" in="00:00:00.000" out="00:00:23.740"/>
+    <entry producer="producer79" in="00:00:00.000" out="00:00:01.520"/>
+    <entry producer="producer80" in="00:00:00.000" out="00:00:22.040"/>
+    <entry producer="producer81" in="00:00:00.000" out="00:00:26.200"/>
+    <entry producer="producer82" in="00:00:00.000" out="00:00:19.660"/>
+    <entry producer="producer83" in="00:00:00.000" out="00:00:46.540"/>
+    <entry producer="producer84" in="00:00:00.000" out="00:01:11.500"/>
+    <entry producer="producer85" in="00:00:00.000" out="00:00:45.100"/>
+    <entry producer="producer86" in="00:00:00.000" out="00:00:55.660"/>
+    <entry producer="producer87" in="00:00:00.000" out="00:00:20.140"/>
+    <entry producer="producer88" in="00:00:00.000" out="00:00:17.600"/>
+    <entry producer="producer89" in="00:00:00.000" out="00:00:10.160"/>
+    <entry producer="producer90" in="00:00:00.000" out="00:00:21.240"/>
+    <entry producer="producer91" in="00:00:00.000" out="00:00:53.300"/>
+    <entry producer="producer92" in="00:00:00.000" out="00:01:19.260"/>
+    <entry producer="producer93" in="00:00:00.000" out="00:00:46.660"/>
+    <entry producer="producer94" in="00:00:00.000" out="00:00:04.080"/>
+    <entry producer="producer95" in="00:00:00.000" out="00:00:56.940"/>
+    <entry producer="producer96" in="00:00:00.000" out="00:00:22.760"/>
+    <entry producer="producer97" in="00:00:00.000" out="00:00:06.700"/>
+    <entry producer="producer98" in="00:00:00.000" out="00:00:07.660"/>
+    <entry producer="producer99" in="00:00:00.000" out="00:01:45.100"/>
+    <entry producer="producer100" in="00:00:00.000" out="00:00:24.940"/>
+    <entry producer="producer101" in="00:00:00.000" out="00:00:47.500"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:04:17.560">
+    <property name="length">00:04:17.580</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:04:17.560"/>
+  </playlist>
+  <producer id="producer102" title="Anonymous Submission" in="00:00:00.000" out="00:00:12.840">
+    <property name="length">00:00:12.860</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/MVI_9616.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/MVI_9616.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">409ede62f62c42f1a642f80ba8145d36</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer103" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.880">
+    <property name="length">00:00:04.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9615.MP4 (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer104" title="Anonymous Submission" in="00:00:00.000" out="00:00:32.840">
+    <property name="length">00:00:32.860</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9618.MP4 (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer105" title="Anonymous Submission" in="00:00:00.000" out="00:00:32.840">
+    <property name="length">00:00:32.860</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer106" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.180">
+    <property name="length">00:00:13.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">06f6db734994e6811016f2a36b5bacb4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00088.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer107" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.480">
+    <property name="length">00:00:04.500</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/MVI_9620.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/MVI_9620.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">d3c63d305bb98be8c50ce8d5a0b8583c</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer108" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.180">
+    <property name="length">00:00:13.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">06f6db734994e6811016f2a36b5bacb4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00088.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer109" title="Anonymous Submission" in="00:00:00.000" out="00:00:32.560">
+    <property name="length">00:00:32.580</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">86753751a00f6c31b5b1bded8cc23ae8</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9581.MP4 (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer110" title="Anonymous Submission" in="00:00:00.000" out="00:00:32.560">
+    <property name="length">00:00:32.580</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">86753751a00f6c31b5b1bded8cc23ae8</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9581.MP4 (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/02/MVI_9581.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer111" title="Anonymous Submission" in="00:00:00.000" out="00:00:35.500">
+    <property name="length">00:00:35.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">3a98944cb5ad9a1ce1fa7e1d2a678855</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00072.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer112" title="Anonymous Submission" in="00:00:00.000" out="00:00:35.500">
+    <property name="length">00:00:35.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">3a98944cb5ad9a1ce1fa7e1d2a678855</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00072.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/02/00072.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer113" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
+    <property name="length">00:00:26.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/02/00073.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/02/00073.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">11fbbbec3f5f26471cb19867e79b4a3d</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00073.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/02/00073.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer114" title="Anonymous Submission" in="00:00:00.000" out="00:00:27.740">
+    <property name="length">00:00:27.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/02/MVI_9582.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/02/MVI_9582.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">b8a064af1587cb6b5f606a7984399153</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9582.MP4 (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/02/MVI_9582.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer115" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.180">
+    <property name="length">00:00:13.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/03/00081.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/03/00081.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">88b6274b097618c6174a7e4c72090a3c</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00081.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/03/00081.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer116" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.400">
+    <property name="length">00:00:04.420</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/03/MVI_9603.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/03/MVI_9603.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">d850db41ba6047a8e81d6c849623d7ab</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer117" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.180">
+    <property name="length">00:00:13.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/03/00081.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/03/00081.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">88b6274b097618c6174a7e4c72090a3c</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer118" title="Anonymous Submission" in="00:00:00.000" out="00:00:30.940">
+    <property name="length">00:00:30.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/04/00082.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/04/00082.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">a5ee38558347b4312b34cfc60c298108</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer119" title="Anonymous Submission" in="00:00:00.000" out="00:00:38.620">
+    <property name="length">00:00:38.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/04/00083.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/04/00083.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">96c84b5e7c2863d50bac00c16999cb0e</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer120" title="Anonymous Submission" in="00:00:00.000" out="00:00:16.780">
+    <property name="length">00:00:16.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/04/00085.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/04/00085.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">3e4f1a81dd61613b848333406de45c89</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer121" title="Anonymous Submission" in="00:00:00.000" out="00:00:38.620">
+    <property name="length">00:00:38.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/04/00083.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/04/00083.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">96c84b5e7c2863d50bac00c16999cb0e</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer122" title="Anonymous Submission" in="00:00:00.000" out="00:00:39.340">
+    <property name="length">00:00:39.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">0.5:H:\data\tabor\2018\intro/video/04/00084.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">0.5</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/04/00084.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">80e4c6886d6708835262adfea3711246</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer123" title="Anonymous Submission" in="00:00:00.000" out="00:04:59.980">
+    <property name="length">00:05:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="shotcut:caption">#00000000</property>
+    <property name="shotcut:detail">#00000000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter0" in="00:00:00.080" out="00:00:02.620">
+      <property name="argument">Scena z filmu tady</property>
+      <property name="geometry">-0.416667%/0.462963%:100%x100%</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+    </filter>
+  </producer>
+  <producer id="producer124" title="Anonymous Submission" in="00:00:00.000" out="00:00:06.940">
+    <property name="length">00:00:06.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/06/00066.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/06/00066.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">38ea34e284ee0d301c52e3d3262906f2</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00066.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/06/00066.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer125" title="Anonymous Submission" in="00:00:00.000" out="00:00:25.180">
+    <property name="length">00:00:25.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/07/00055.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/07/00055.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">cdfabccf32aa2a08f593fdefa163223e</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00055.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/07/00055.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer126" title="Anonymous Submission" in="00:00:00.000" out="00:00:22.060">
+    <property name="length">00:00:22.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/08/00064.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/08/00064.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">af86248aa6d1c4d386e150b4861cbb11</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00064.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/08/00064.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer127" title="Anonymous Submission" in="00:00:00.000" out="00:00:13.480">
+    <property name="length">00:00:13.500</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/08/MVI_9513.MP4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/08/MVI_9513.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">18f12669e7585ac6ce2a68b3ada2a62e</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">MVI_9513.MP4 (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/08/MVI_9513.MP4</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer128" title="Anonymous Submission" in="00:00:00.000" out="00:00:29.420">
+    <property name="length">00:00:29.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.5:H:\data\tabor\2018\intro/video/09/00048.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.5</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/09/00048.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">7e8ef354ab5578a37d436581f59c3251</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00048.MTS (1.5x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/09/00048.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer129" title="Anonymous Submission" in="00:00:00.000" out="00:00:15.820">
+    <property name="length">00:00:15.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/10/00032.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/10/00032.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">4d135360e176aaeba5dcbd8dc1a9cc94</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00032.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/10/00032.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer130" title="Anonymous Submission" in="00:00:00.000" out="00:00:49.900">
+    <property name="length">00:00:49.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/11/00040.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/11/00040.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">6d820968168334db8b5d166c582508c1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00040.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/11/00040.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer131" title="Anonymous Submission" in="00:00:00.000" out="00:00:21.100">
+    <property name="length">00:00:21.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/12/00051.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/12/00051.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">22d790a452727b4733e0664e4cb7ac0d</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00051.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/12/00051.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer132" title="Anonymous Submission" in="00:00:00.000" out="00:00:09.340">
+    <property name="length">00:00:09.360</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/13/00070.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/13/00070.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">2411db4b5b6913bb1672a2940dc166a1</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00070.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/13/00070.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer133" title="Anonymous Submission" in="00:00:00.000" out="00:00:23.260">
+    <property name="length">00:00:23.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/14/00035.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/14/00035.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">89ae81fbf527fad3db16a2199dc0f87a</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00035.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/14/00035.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <producer id="producer134" title="Anonymous Submission" in="00:00:00.000" out="00:00:52.540">
+    <property name="length">00:00:52.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:H:\data\tabor\2018\intro/video/16/00091.MTS</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">H:\data\tabor\2018\intro/video/16/00091.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">407935578088a90660d823f0ff11444c</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">00091.MTS (2x)</property>
+    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/16/00091.MTS</property>
+    <property name="shotcut:comment"></property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer102" in="00:00:02.360" out="00:00:04.720"/>
+    <entry producer="producer103" in="00:00:00.980" out="00:00:01.920"/>
+    <entry producer="producer104" in="00:00:00.000" out="00:00:02.420"/>
+    <entry producer="producer105" in="00:00:07.860" out="00:00:08.920"/>
+    <entry producer="producer106" in="00:00:00.000" out="00:00:02.440"/>
+    <entry producer="producer107" in="00:00:00.660" out="00:00:01.440"/>
+    <entry producer="producer108" in="00:00:02.460" out="00:00:03.060"/>
+    <entry producer="producer109" in="00:00:06.580" out="00:00:07.820"/>
+    <entry producer="producer110" in="00:00:09.560" out="00:00:11.940"/>
+    <entry producer="producer111" in="00:00:17.440" out="00:00:20.320"/>
+    <entry producer="producer112" in="00:00:23.820" out="00:00:35.500"/>
+    <entry producer="producer113" in="00:00:04.700" out="00:00:15.980"/>
+    <entry producer="producer114" in="00:00:16.920" out="00:00:23.840"/>
+    <entry producer="producer115" in="00:00:02.480" out="00:00:07.420"/>
+    <entry producer="producer116" in="00:00:00.000" out="00:00:00.800"/>
+    <entry producer="producer117" in="00:00:07.440" out="00:00:12.100"/>
+    <entry producer="producer118" in="00:00:01.580" out="00:00:08.700"/>
+    <entry producer="producer119" in="00:00:08.840" out="00:00:16.360"/>
+    <entry producer="producer120" in="00:00:00.000" out="00:00:02.620"/>
+    <entry producer="producer121" in="00:00:31.280" out="00:00:33.360"/>
+    <entry producer="producer122" in="00:00:23.440" out="00:00:35.600"/>
+    <entry producer="producer123" in="00:00:00.080" out="00:00:02.620"/>
+    <entry producer="producer124" in="00:00:00.000" out="00:00:05.260"/>
+    <entry producer="producer125" in="00:00:05.200" out="00:00:23.160"/>
+    <entry producer="producer126" in="00:00:03.080" out="00:00:13.380"/>
+    <entry producer="producer127" in="00:00:09.840" out="00:00:11.380"/>
+    <entry producer="producer128" in="00:00:00.000" out="00:00:12.740"/>
+    <entry producer="producer129" in="00:00:03.060" out="00:00:08.040"/>
+    <entry producer="producer130" in="00:00:03.460" out="00:00:45.640"/>
+    <entry producer="producer131" in="00:00:00.000" out="00:00:21.100"/>
+    <entry producer="producer132" in="00:00:00.500" out="00:00:05.820"/>
+    <entry producer="producer133" in="00:00:03.120" out="00:00:21.480"/>
+    <entry producer="producer134" in="00:00:11.560" out="00:00:37.320"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00.000" out="00:04:17.560">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:scaleFactor">0.143667</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
