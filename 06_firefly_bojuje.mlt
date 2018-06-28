@@ -886,7 +886,7 @@
     <property name="length">00:00:26,220</property>
     <property name="eof">pause</property>
     <property name="resource">video/13/MVI_9577.MP4</property>
-    <property name="audio_index">1</property>
+    <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
     <property name="mlt_service">avformat-novalidate</property>
@@ -904,7 +904,7 @@
     <property name="length">00:00:20,160</property>
     <property name="eof">pause</property>
     <property name="resource">video/99-misk/00057.MTS</property>
-    <property name="audio_index">1</property>
+    <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
     <property name="mlt_service">avformat-novalidate</property>
@@ -944,7 +944,7 @@
     <property name="length">00:00:19,680</property>
     <property name="eof">pause</property>
     <property name="resource">video/04/00084.MTS</property>
-    <property name="audio_index">1</property>
+    <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
     <property name="mlt_service">avformat-novalidate</property>
