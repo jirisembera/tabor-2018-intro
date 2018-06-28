@@ -4,7 +4,7 @@
   <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:01:10.540">
     <property name="length">00:01:10.560</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/00087.MTS</property>
+    <property name="resource">video/01/00087.MTS</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -19,7 +19,7 @@
   <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
     <property name="length">00:00:26.400</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="resource">video/01/00088.MTS</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -33,7 +33,7 @@
   <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:00:09.780">
     <property name="length">00:00:09.800</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="resource">video/01/MVI_9615.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -47,7 +47,7 @@
   <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:00:25.700">
     <property name="length">00:00:25.720</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9616.MP4</property>
+    <property name="resource">video/01/MVI_9616.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -61,7 +61,7 @@
   <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:38.180">
     <property name="length">00:00:38.200</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9617.MP4</property>
+    <property name="resource">video/01/MVI_9617.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -75,7 +75,7 @@
   <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:01:05.680">
     <property name="length">00:01:05.700</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="resource">video/01/MVI_9618.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -89,7 +89,7 @@
   <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:00:05.820">
     <property name="length">00:00:05.840</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9619.MP4</property>
+    <property name="resource">video/01/MVI_9619.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -103,7 +103,7 @@
   <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.980">
     <property name="length">00:00:09.000</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9620.MP4</property>
+    <property name="resource">video/01/MVI_9620.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -117,7 +117,7 @@
   <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="00:00:09.080">
     <property name="length">00:00:09.100</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9621.MP4</property>
+    <property name="resource">video/01/MVI_9621.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -131,7 +131,7 @@
   <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="00:00:06.980">
     <property name="length">00:00:07.000</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9622.MP4</property>
+    <property name="resource">video/01/MVI_9622.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1563,7 +1563,7 @@
   <producer id="producer102" title="Anonymous Submission" in="00:00:00.000" out="00:00:25.700">
     <property name="length">00:00:25.720</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9616.MP4</property>
+    <property name="resource">video/01/MVI_9616.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1575,13 +1575,13 @@
     <property name="shotcut:hash">409ede62f62c42f1a642f80ba8145d36</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">MVI_9616.MP4</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9616.MP4</property>
+    <property name="shotcut:detail">video/01/MVI_9616.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer103" title="Anonymous Submission" in="00:00:00.000" out="00:00:09.780">
     <property name="length">00:00:09.800</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="resource">video/01/MVI_9615.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1593,13 +1593,13 @@
     <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">MVI_9615.MP4</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9615.MP4</property>
+    <property name="shotcut:detail">video/01/MVI_9615.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer104" title="Anonymous Submission" in="00:00:00.000" out="00:01:05.680">
     <property name="length">00:01:05.700</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="resource">video/01/MVI_9618.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1611,13 +1611,13 @@
     <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">MVI_9618.MP4</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="shotcut:detail">video/01/MVI_9618.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer105" title="Anonymous Submission" in="00:00:00.000" out="00:01:05.680">
     <property name="length">00:01:05.700</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="resource">video/01/MVI_9618.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1629,13 +1629,13 @@
     <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">MVI_9618.MP4</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9618.MP4</property>
+    <property name="shotcut:detail">video/01/MVI_9618.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer106" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
     <property name="length">00:00:26.400</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="resource">video/01/00088.MTS</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1647,13 +1647,13 @@
     <property name="shotcut:hash">06f6db734994e6811016f2a36b5bacb4</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">00088.MTS</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="shotcut:detail">video/01/00088.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer107" title="Anonymous Submission" in="00:00:00.000" out="00:00:08.980">
     <property name="length">00:00:09.000</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/MVI_9620.MP4</property>
+    <property name="resource">video/01/MVI_9620.MP4</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1665,13 +1665,13 @@
     <property name="shotcut:hash">d3c63d305bb98be8c50ce8d5a0b8583c</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">MVI_9620.MP4</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/MVI_9620.MP4</property>
+    <property name="shotcut:detail">video/01/MVI_9620.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer108" title="Anonymous Submission" in="00:00:00.000" out="00:00:26.380">
     <property name="length">00:00:26.400</property>
     <property name="eof">pause</property>
-    <property name="resource">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="resource">video/01/00088.MTS</property>
     <property name="audio_index">1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
@@ -1683,7 +1683,7 @@
     <property name="shotcut:hash">06f6db734994e6811016f2a36b5bacb4</property>
     <property name="ignore_points">0</property>
     <property name="shotcut:caption">00088.MTS</property>
-    <property name="shotcut:detail">H:\data\tabor\2018\intro/video/01/00088.MTS</property>
+    <property name="shotcut:detail">video/01/00088.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer109" title="Anonymous Submission" in="00:00:00.000" out="00:01:05.140">
