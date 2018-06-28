@@ -361,7 +361,7 @@
     <entry producer="producer16" in="00:00:01,952" out="00:00:05,138"/>
     <entry producer="producer17" in="00:00:13,714" out="00:00:18,769"/>
     <entry producer="producer18" in="00:00:03,820" out="00:00:06,039"/>
-    <entry producer="producer19" in="00:00:07,074" out="00:00:08,175"/>
+    <entry producer="producer19" in="00:00:06,074" out="00:00:07,175"/>
     <entry producer="producer20" in="00:00:03,637" out="00:00:08,125"/>
   </playlist>
   <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1">
