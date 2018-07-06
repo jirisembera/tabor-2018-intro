@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as etree
 
-template_file = "intro_combi.tpl.mlt"
-output_file = "intro_combi.mlt"
+template_file = "intro_concat.tpl.mlt"
+output_file = "intro_concat.mlt"
 input_files = [
     "01.mlt",
     "02_prestaveni_helmy.mlt",
