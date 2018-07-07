@@ -3,6 +3,7 @@ import xml.etree.ElementTree as etree
 template_file = "intro_concat.tpl.mlt"
 output_file = "intro_concat.mlt"
 input_files = [
+	"00.mlt",
     "01.mlt",
     "02_prestaveni_helmy.mlt",
     "03.mlt",
