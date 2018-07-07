@@ -935,13 +935,13 @@ hrdě uvádí celotáborovou hru</property>
     <entry producer="producer12" in="00:00:03,820" out="00:00:06,040"/>
     <entry producer="producer13" in="00:00:07,080" out="00:00:08,180"/>
     <entry producer="producer14" in="00:00:03,640" out="00:00:08,120"/>
-    <entry producer="producer15" in="00:00:03,820" out="00:00:06,040"/>
-    <entry producer="producer16" in="00:00:07,980" out="00:00:12,400"/>
+	<entry producer="producer19" in="00:00:05,440" out="00:00:15,760"/>
     <entry producer="producer17" in="00:00:04,880" out="00:00:06,780"/>
     <entry producer="producer18" in="00:00:05,220" out="00:00:08,280"/>
-    <entry producer="producer19" in="00:00:05,440" out="00:00:15,760"/>
-    <entry producer="producer20" in="00:00:03,200" out="00:00:07,260"/>
+	<entry producer="producer20" in="00:00:03,200" out="00:00:07,260"/>
     <entry producer="producer21" in="00:00:00,000" out="00:00:01,920"/>
+	<entry producer="producer15" in="00:00:03,820" out="00:00:06,040"/>
+    <entry producer="producer16" in="00:00:07,980" out="00:00:12,400"/>
     <entry producer="producer22" in="00:00:03,380" out="00:00:08,600"/>
     <entry producer="producer23" in="00:00:07,240" out="00:00:09,160"/>
     <entry producer="producer24" in="00:00:09,920" out="00:00:12,380"/>
