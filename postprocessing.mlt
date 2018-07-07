@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="cs_CZ" version="6.9.0" title="Shotcut version 18.06.02" producer="main bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="50" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
+    <property name="length">00:04:01,020</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro_concat.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">6a718ef98537762ff98060798b80738c</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="main bin" title="Shotcut version 18.06.02">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00,000" out="00:04:01,000"/>
+  </playlist>
+  <producer id="black" in="00:00:00,000" out="00:02:22,160">
+    <property name="length">00:02:22,180</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00,000" out="00:02:22,160"/>
+  </playlist>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
+    <property name="length">00:04:01,020</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro_concat.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">6a718ef98537762ff98060798b80738c</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro_concat.mp4</property>
+    <property name="shotcut:detail">intro_concat.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter0" out="00:02:22,160">
+      <property name="maxdiameter">2</property>
+      <property name="maxcount">8</property>
+      <property name="mlt_service">dust</property>
+      <property name="cache-dy-3-38">89</property>
+      <property name="cache-dy-0-38">34</property>
+      <property name="cache-dy-4-38">58</property>
+      <property name="cache-dy-1-38">50</property>
+      <property name="cache-dy-2-38">23</property>
+    </filter>
+    <filter id="filter1" out="00:02:22,160">
+      <property name="delta">0</property>
+      <property name="every">20</property>
+      <property name="brightnessdelta_up">20</property>
+      <property name="brightnessdelta_down">30</property>
+      <property name="brightnessdelta_every">29</property>
+      <property name="unevendevelop_up">46</property>
+      <property name="unevendevelop_down">14</property>
+      <property name="unevendevelop_duration">70</property>
+      <property name="mlt_service">oldfilm</property>
+    </filter>
+    <filter id="filter2" out="00:02:22,160">
+      <property name="noise">8</property>
+      <property name="contrast">100</property>
+      <property name="brightness">83</property>
+      <property name="mlt_service">grain</property>
+      <property name="shotcut:animIn">0</property>
+      <property name="shotcut:animOut">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer1" in="00:00:00,000" out="00:02:22,160"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:22,160">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
