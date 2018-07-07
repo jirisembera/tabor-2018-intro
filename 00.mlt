@@ -61,13 +61,13 @@
     <property name="xml">was here</property>
     <property name="seekable">1</property>
     <filter id="filter0" out="00:00:12,960">
-      <property name="argument">A highly creative studio
+      <property name="argument">Prudce kreativní studio
 
 
 
 
 
-Proudly presents</property>
+hrdě uvádí celotáborovou hru</property>
       <property name="geometry">0/0:100%x100%</property>
       <property name="family">Verdana</property>
       <property name="size">37</property>
@@ -105,10 +105,10 @@ Proudly presents</property>
       <property name="shotcut:pointSize">200</property>
     </filter>
     <filter id="filter2" out="00:00:12,960">
-      <property name="argument">Proudly presents</property>
+      <property name="argument">Fly-a-fry*</property>
       <property name="geometry">0/0:100%x100%</property>
       <property name="family">Verdana</property>
-      <property name="size">96</property>
+      <property name="size">133</property>
       <property name="weight">500</property>
       <property name="style">normal</property>
       <property name="fgcolour">#ffffffff</property>
@@ -121,7 +121,28 @@ Proudly presents</property>
       <property name="mlt_service">dynamictext</property>
       <property name="shotcut:filter">dynamicText</property>
       <property name="shotcut:usePointSize">1</property>
-      <property name="shotcut:pointSize">72</property>
+      <property name="shotcut:pointSize">100</property>
+    </filter>
+    <filter id="filter3" out="00:00:09,920">
+      <property name="argument">* Nemusí se shodovat s reálným názvem**
+** Opravdový název je: Divoké historky vesmírných kovbojů</property>
+      <property name="geometry">0/0:100%x100%</property>
+      <property name="family">Verdana</property>
+      <property name="size">34</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">bottom</property>
+      <property name="outline">0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">26</property>
+      <property name="disable">0</property>
     </filter>
   </producer>
   <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:00:09,960">
