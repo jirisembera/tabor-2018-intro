@@ -49,7 +49,7 @@
     <property name="shotcut:caption">intro_concat.mp4</property>
     <property name="shotcut:detail">intro_concat.mp4</property>
     <property name="shotcut:comment"></property>
-    <filter id="filter0" out="00:02:22,160">
+    <filter id="filter0" out="00:02:21,000">
       <property name="maxdiameter">2</property>
       <property name="maxcount">8</property>
       <property name="mlt_service">dust</property>
@@ -59,7 +59,7 @@
       <property name="cache-dy-1-38">50</property>
       <property name="cache-dy-2-38">23</property>
     </filter>
-    <filter id="filter1" out="00:02:22,160">
+    <filter id="filter1" out="00:02:21,000">
       <property name="delta">0</property>
       <property name="every">20</property>
       <property name="brightnessdelta_up">20</property>
@@ -70,7 +70,54 @@
       <property name="unevendevelop_duration">70</property>
       <property name="mlt_service">oldfilm</property>
     </filter>
-    <filter id="filter2" out="00:02:22,160">
+    <filter id="filter2" out="00:02:21,000">
+      <property name="noise">8</property>
+      <property name="contrast">100</property>
+      <property name="brightness">100</property>
+      <property name="mlt_service">grain</property>
+      <property name="shotcut:animIn">0</property>
+      <property name="shotcut:animOut">0</property>
+    </filter>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
+    <property name="length">00:04:01,020</property>
+    <property name="eof">pause</property>
+    <property name="resource">intro_concat.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="shotcut:hash">6a718ef98537762ff98060798b80738c</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">intro_concat.mp4</property>
+    <property name="shotcut:detail">intro_concat.mp4</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter3" in="00:02:21,020" out="00:02:22,160">
+      <property name="maxdiameter">2</property>
+      <property name="maxcount">8</property>
+      <property name="mlt_service">dust</property>
+      <property name="cache-dy-3-38">89</property>
+      <property name="cache-dy-0-38">34</property>
+      <property name="cache-dy-4-38">58</property>
+      <property name="cache-dy-1-38">50</property>
+      <property name="cache-dy-2-38">23</property>
+    </filter>
+    <filter id="filter4" in="00:02:21,020" out="00:02:22,160">
+      <property name="delta">0</property>
+      <property name="every">20</property>
+      <property name="brightnessdelta_up">20</property>
+      <property name="brightnessdelta_down">30</property>
+      <property name="brightnessdelta_every">29</property>
+      <property name="unevendevelop_up">46</property>
+      <property name="unevendevelop_down">14</property>
+      <property name="unevendevelop_duration">70</property>
+      <property name="mlt_service">oldfilm</property>
+    </filter>
+    <filter id="filter5" in="00:02:21,020" out="00:02:22,160">
       <property name="noise">8</property>
       <property name="contrast">100</property>
       <property name="brightness">83</property>
@@ -82,7 +129,8 @@
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="producer1" in="00:00:00,000" out="00:02:22,160"/>
+    <entry producer="producer1" in="00:00:00,000" out="00:02:21,000"/>
+    <entry producer="producer2" in="00:02:21,020" out="00:02:22,160"/>
   </playlist>
   <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:22,160">
     <property name="shotcut">1</property>

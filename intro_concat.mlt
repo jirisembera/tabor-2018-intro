@@ -43,8 +43,8 @@
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
   </producer>
-  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:00:03,020">
-    <property name="length">00:00:03,040</property>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:00:03,720">
+    <property name="length">00:00:03,740</property>
     <property name="eof">pause</property>
     <property name="resource">firefly_shot_1.mp4</property>
     <property name="audio_index">1</property>
@@ -276,7 +276,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">951fd1e5c4a793ed8afbacebd12f6928</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9615.MP4 (4x)</property>
+    <property name="shotcut:caption">video/01/MVI_9615.MP4 (4x)</property>
     <property name="shotcut:detail">video/01/MVI_9615.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -297,7 +297,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">3e1c1b898a64351a3fc387aa02505e7b</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9617.MP4 (4x)</property>
+    <property name="shotcut:caption">video/01/MVI_9617.MP4 (4x)</property>
     <property name="shotcut:detail">video/01/MVI_9617.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -318,7 +318,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9618.MP4 (4x)</property>
+    <property name="shotcut:caption">video/01/MVI_9618.MP4 (4x)</property>
     <property name="shotcut:detail">video/01/MVI_9618.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -339,27 +339,27 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">a2da8393adcf021453c7e2f72aa3be24</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9618.MP4 (4x)</property>
+    <property name="shotcut:caption">video/01/MVI_9618.MP4 (4x)</property>
     <property name="shotcut:detail">video/01/MVI_9618.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
-  <producer id="producer15" title="Anonymous Submission" in="00:00:00,000" out="00:00:10,060">
-    <property name="length">00:00:10,080</property>
+  <producer id="producer15" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,560">
+    <property name="length">00:00:04,580</property>
     <property name="eof">pause</property>
-    <property name="resource">video/99-misk/00074.MTS</property>
-    <property name="seekable">1</property>
+    <property name="resource">2,2:video/99-misk/00074.MTS</property>
     <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
     <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">1</property>
-    <property name="mlt_service">avformat</property>
+    <property name="warp_speed">2,2</property>
+    <property name="warp_resource">video/99-misk/00074.MTS</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
     <property name="video_delay">0</property>
     <property name="shotcut:hash">0010570f97ef5962823a4e94a74f2caf</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">00074.MTS</property>
-    <property name="shotcut:detail">video/99-misk/00074.MTS</property>
-    <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer16" title="Anonymous Submission" in="00:00:00,000" out="00:00:34,260">
     <property name="length">00:00:34,280</property>
@@ -399,25 +399,28 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">4ec93be1f8b9db0a7fe40937acc6729b</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">00080.MTS (3x)</property>
+    <property name="shotcut:caption">video/03/00080.MTS (3x)</property>
     <property name="shotcut:detail">video/03/00080.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
-  <producer id="producer18" title="Anonymous Submission" in="00:00:00,000" out="00:00:08,820">
-    <property name="length">00:00:08,840</property>
+  <producer id="producer18" title="Anonymous Submission" in="00:00:00,000" out="00:00:12,600">
+    <property name="length">00:00:12,620</property>
     <property name="eof">pause</property>
-    <property name="resource">video/03/MVI_9603.MP4</property>
-    <property name="seekable">1</property>
+    <property name="resource">0,7:video/03/MVI_9603.MP4</property>
     <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
     <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">1</property>
-    <property name="mlt_service">avformat</property>
+    <property name="warp_speed">0,7</property>
+    <property name="warp_resource">video/03/MVI_9603.MP4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
     <property name="video_delay">0</property>
     <property name="shotcut:hash">d850db41ba6047a8e81d6c849623d7ab</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9603.MP4</property>
+    <property name="shotcut:caption">video/03/MVI_9603.MP4 (0.7x)</property>
     <property name="shotcut:detail">video/03/MVI_9603.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -442,8 +445,8 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:detail">video/03/00081.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
-  <producer id="producer20" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,320">
-    <property name="length">00:00:04,340</property>
+  <producer id="producer20" title="Anonymous Submission" in="00:00:00,000" out="00:00:05,320">
+    <property name="length">00:00:05,340</property>
     <property name="eof">pause</property>
     <property name="resource">0,7:firefly_shot_1.mp4</property>
     <property name="aspect_ratio">1</property>
@@ -459,6 +462,9 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">16ae2d4c7328f3d9f158d1e04695ea64</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
+    <property name="shotcut:caption">firefly_shot_1.mp4 (0.7x)</property>
+    <property name="shotcut:detail">firefly_shot_1.mp4</property>
+    <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer21" title="Anonymous Submission" in="00:00:00,000" out="00:00:15,940">
     <property name="length">00:00:15,960</property>
@@ -480,7 +486,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:caption">video/12/00052.MTS (4x)</property>
     <property name="shotcut:detail">video/12/00052.MTS</property>
     <property name="shotcut:comment"></property>
-    <filter id="filter4" in="00:00:05,440" out="00:00:15,760">
+    <filter id="filter4" out="00:00:15,760">
       <property name="mlt_service">avfilter.hue</property>
       <property name="av.h">0</property>
       <property name="av.b">-1,2</property>
@@ -506,7 +512,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">3008255fcdf988f0cc6a40fb06c4af37</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9453.MP4 (3x)</property>
+    <property name="shotcut:caption">video/10/MVI_9453.MP4 (3x)</property>
     <property name="shotcut:detail">video/10/MVI_9453.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -527,7 +533,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">d983148f00baad037a9db4608405a3fd</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9450.MP4 (3x)</property>
+    <property name="shotcut:caption">video/10/MVI_9450.MP4 (3x)</property>
     <property name="shotcut:detail">video/10/MVI_9450.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -548,23 +554,26 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">89ae81fbf527fad3db16a2199dc0f87a</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
+    <property name="shotcut:caption">video/14/00035.MTS (4x)</property>
+    <property name="shotcut:detail">video/14/00035.MTS</property>
+    <property name="shotcut:comment"></property>
     <filter id="filter5" in="00:00:12,820" out="00:00:46,540">
       <property name="mlt_service">avfilter.hue</property>
       <property name="av.h">0</property>
-      <property name="av.b">-0,6</property>
-      <property name="av.s">1</property>
+      <property name="av.b">-11,006</property>
+      <property name="av.s">0,0001</property>
     </filter>
   </producer>
-  <producer id="producer25" title="Anonymous Submission" in="00:00:00,000" out="00:00:02,520">
-    <property name="length">00:00:02,540</property>
+  <producer id="producer25" title="Anonymous Submission" in="00:00:00,000" out="00:00:03,020">
+    <property name="length">00:00:03,040</property>
     <property name="eof">pause</property>
-    <property name="resource">4:video/14/MVI_9456.MP4</property>
+    <property name="resource">3:video/14/MVI_9456.MP4</property>
     <property name="aspect_ratio">1</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">1</property>
-    <property name="warp_speed">4</property>
+    <property name="warp_speed">3</property>
     <property name="warp_resource">video/14/MVI_9456.MP4</property>
     <property name="mlt_service">timewarp</property>
     <property name="shotcut:producer">avformat</property>
@@ -572,6 +581,9 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">f18ba1d6b07cdcbdbfa7b9763aea8aec</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
+    <property name="shotcut:caption">video/14/MVI_9456.MP4 (3.5x)</property>
+    <property name="shotcut:detail">video/14/MVI_9456.MP4</property>
+    <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer26" title="Anonymous Submission" in="00:00:00,000" out="00:00:11,100">
     <property name="length">00:00:11,120</property>
@@ -590,20 +602,20 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">9834552b66ed70dbe9d4e74b9abd9a93</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9470.MP4 (4x)</property>
+    <property name="shotcut:caption">video/09/MVI_9470.MP4 (4x)</property>
     <property name="shotcut:detail">video/09/MVI_9470.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
   <producer id="producer27" title="Anonymous Submission" in="00:00:00,000" out="00:00:15,780">
     <property name="length">00:00:15,800</property>
     <property name="eof">pause</property>
-    <property name="resource">4:video/09/MVI_9472.MP4</property>
+    <property name="resource">3,2:video/09/MVI_9472.MP4</property>
     <property name="aspect_ratio">1</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">1</property>
-    <property name="warp_speed">4</property>
+    <property name="warp_speed">3,2</property>
     <property name="warp_resource">video/09/MVI_9472.MP4</property>
     <property name="mlt_service">timewarp</property>
     <property name="shotcut:producer">avformat</property>
@@ -611,7 +623,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">974757924174cf6efb47f7bb30efb977</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9472.MP4 (4x)</property>
+    <property name="shotcut:caption">video/09/MVI_9472.MP4 (3.2x)</property>
     <property name="shotcut:detail">video/09/MVI_9472.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -653,7 +665,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">96c84b5e7c2863d50bac00c16999cb0e</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">00083.MTS (3x)</property>
+    <property name="shotcut:caption">video/04/00083.MTS (3x)</property>
     <property name="shotcut:detail">video/04/00083.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -695,7 +707,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">2b9076bfa8b78218cd730191897dc8e8</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">00086.MTS (2x)</property>
+    <property name="shotcut:caption">video/04/00086.MTS (2x)</property>
     <property name="shotcut:detail">video/04/00086.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -737,10 +749,28 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">96c84b5e7c2863d50bac00c16999cb0e</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">00083.MTS (3x)</property>
+    <property name="shotcut:caption">video/04/00083.MTS (3x)</property>
     <property name="shotcut:detail">video/04/00083.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
+  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,000">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer32" in="00:00:14,760" out="00:00:14,760"/>
+    <track producer="producer33" in="00:00:18,740" out="00:00:18,740"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
   <producer id="producer34" title="Anonymous Submission" in="00:00:00,000" out="00:00:27,560">
     <property name="length">00:00:27,580</property>
     <property name="eof">pause</property>
@@ -758,7 +788,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">960079356918ba1e5bec74d1fed5de79</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">MVI_9607.MP4 (3x)</property>
+    <property name="shotcut:caption">video/04/MVI_9607.MP4 (3x)</property>
     <property name="shotcut:detail">video/04/MVI_9607.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -779,7 +809,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">0a8c1f2d423104c3b2a72240939401f5</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">00067.MTS (2x)</property>
+    <property name="shotcut:caption">video/06/00067.MTS (2x)</property>
     <property name="shotcut:detail">video/06/00067.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -954,6 +984,24 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:detail">video/13/MVI_9577.MP4</property>
     <property name="shotcut:comment"></property>
   </producer>
+  <tractor id="tractor1" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,020">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer43" in="00:00:12,780" out="00:00:12,800"/>
+    <track producer="producer44" in="00:00:06,700" out="00:00:06,720"/>
+    <transition id="transition2" out="00:00:00,020">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+    </transition>
+    <transition id="transition3" out="00:00:00,020">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
   <producer id="producer45" title="Anonymous Submission" in="00:00:00,000" out="00:04:59,980">
     <property name="length">00:05:00,000</property>
     <property name="eof">pause</property>
@@ -989,7 +1037,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:comment">
 </property>
   </producer>
-  <producer id="producer47" title="Anonymous Submission" in="00:00:00,000" out="00:00:05,020">
+  <producer id="producer47" title="Anonymous Submission" in="00:00:00,160" out="00:00:05,020">
     <property name="length">04:00:00,000</property>
     <property name="eof">pause</property>
     <property name="resource">logo/SpolecneFoto.jpg</property>
@@ -1002,13 +1050,13 @@ hrdě uvádí celotáborovou hru</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <filter id="filter6" out="00:00:05,020">
+    <filter id="filter6" in="00:00:00,160" out="00:00:05,020">
       <property name="start">1</property>
-      <property name="level">202=1;251=0</property>
+      <property name="level">204=1;243=0</property>
       <property name="mlt_service">brightness</property>
       <property name="shotcut:filter">fadeOutBrightness</property>
       <property name="alpha">1</property>
-      <property name="shotcut:animOut">50</property>
+      <property name="shotcut:animOut">40</property>
     </filter>
   </producer>
   <producer id="producer48" title="Anonymous Submission" in="00:00:00,000" out="00:04:59,980">
@@ -1050,108 +1098,49 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:name">V1</property>
     <entry producer="producer8" in="00:00:00,000" out="00:00:04,980"/>
     <entry producer="producer9" in="00:00:06,960" out="00:00:09,960"/>
-    <entry producer="producer10" in="00:00:00,000" out="00:00:01,260"/>
-    <entry producer="producer11" in="00:00:00,220" out="00:00:02,220"/>
-    <entry producer="producer12" in="00:00:02,840" out="00:00:09,280"/>
-    <entry producer="producer13" in="00:00:00,260" out="00:00:02,000"/>
-    <entry producer="producer14" in="00:00:10,580" out="00:00:16,400"/>
-    <entry producer="producer15" in="00:00:01,960" out="00:00:05,140"/>
-    <entry producer="producer16" in="00:00:13,720" out="00:00:18,760"/>
-    <entry producer="producer17" in="00:00:03,820" out="00:00:06,040"/>
-    <entry producer="producer18" in="00:00:07,080" out="00:00:08,180"/>
-    <entry producer="producer19" in="00:00:03,640" out="00:00:08,120"/>
-    <entry producer="producer20" in="00:00:00,000" out="00:00:04,320"/>
-    <entry producer="producer21" in="00:00:05,440" out="00:00:15,760"/>
-    <entry producer="producer22" in="00:00:04,880" out="00:00:06,780"/>
-    <entry producer="producer23" in="00:00:05,220" out="00:00:08,280"/>
-    <entry producer="producer24" in="00:00:03,200" out="00:00:07,260"/>
-    <entry producer="producer25" in="00:00:00,000" out="00:00:01,920"/>
-    <entry producer="producer26" in="00:00:03,820" out="00:00:06,040"/>
-    <entry producer="producer27" in="00:00:07,980" out="00:00:12,400"/>
-    <entry producer="producer28" in="00:00:03,380" out="00:00:08,600"/>
-    <entry producer="producer29" in="00:00:07,240" out="00:00:09,160"/>
+    <entry producer="producer10" in="00:00:00,000" out="00:00:01,480"/>
+    <entry producer="producer11" in="00:00:00,080" out="00:00:02,220"/>
+    <entry producer="producer12" in="00:00:02,760" out="00:00:08,400"/>
+    <entry producer="producer13" in="00:00:00,000" out="00:00:02,780"/>
+    <entry producer="producer14" in="00:00:10,320" out="00:00:15,880"/>
+    <entry producer="producer15" in="00:00:00,900" out="00:00:02,060"/>
+    <entry producer="producer16" in="00:00:13,720" out="00:00:19,780"/>
+    <entry producer="producer17" in="00:00:03,820" out="00:00:05,840"/>
+    <entry producer="producer18" in="00:00:10,540" out="00:00:11,980"/>
+    <entry producer="producer19" in="00:00:03,640" out="00:00:08,460"/>
+    <entry producer="producer20" in="00:00:00,000" out="00:00:04,800"/>
+    <entry producer="producer21" in="00:00:06,260" out="00:00:15,760"/>
+    <entry producer="producer22" in="00:00:04,920" out="00:00:07,180"/>
+    <entry producer="producer23" in="00:00:05,400" out="00:00:07,980"/>
+    <entry producer="producer24" in="00:00:03,200" out="00:00:05,560"/>
+    <entry producer="producer25" in="00:00:00,000" out="00:00:02,400"/>
+    <entry producer="producer26" in="00:00:00,940" out="00:00:05,720"/>
+    <entry producer="producer27" in="00:00:10,540" out="00:00:15,300"/>
+    <entry producer="producer28" in="00:00:03,380" out="00:00:08,280"/>
+    <entry producer="producer29" in="00:00:06,920" out="00:00:09,160"/>
     <entry producer="producer30" in="00:00:09,920" out="00:00:12,380"/>
     <entry producer="producer31" in="00:00:09,940" out="00:00:11,580"/>
-    <entry producer="producer32" in="00:00:13,340" out="00:00:14,760"/>
-    <entry producer="producer33" in="00:00:19,800" out="00:00:22,840"/>
+    <entry producer="producer32" in="00:00:13,340" out="00:00:14,740"/>
+    <entry producer="tractor0" in="00:00:00,000" out="00:00:00,000"/>
+    <entry producer="producer33" in="00:00:18,760" out="00:00:22,840"/>
     <entry producer="producer34" in="00:00:25,220" out="00:00:27,560"/>
     <entry producer="producer35" in="00:00:00,440" out="00:00:01,560"/>
     <entry producer="producer36" in="00:00:06,320" out="00:00:07,280"/>
     <entry producer="producer37" in="00:00:01,840" out="00:00:06,180"/>
     <entry producer="producer38" in="00:00:19,800" out="00:00:25,360"/>
-    <entry producer="producer40" in="00:00:12,140" out="00:00:15,140"/>
-    <entry producer="producer39" in="00:00:01,960" out="00:00:04,000"/>
+    <entry producer="producer40" in="00:00:12,480" out="00:00:14,860"/>
+    <entry producer="producer39" in="00:00:01,680" out="00:00:04,000"/>
     <entry producer="producer41" in="00:00:03,160" out="00:00:04,780"/>
     <entry producer="producer42" in="00:00:04,880" out="00:00:08,880"/>
-    <entry producer="producer43" in="00:00:10,780" out="00:00:12,800"/>
-    <entry producer="producer44" in="00:00:05,000" out="00:00:10,420"/>
+    <entry producer="producer43" in="00:00:10,780" out="00:00:12,760"/>
+    <entry producer="tractor1" in="00:00:00,000" out="00:00:00,020"/>
+    <entry producer="producer44" in="00:00:06,740" out="00:00:10,420"/>
     <entry producer="producer45" in="00:00:00,000" out="00:00:04,880"/>
-    <entry producer="producer46" in="00:00:07,740" out="00:00:15,380"/>
-    <entry producer="producer47" in="00:00:00,000" out="00:00:05,020"/>
+    <entry producer="producer46" in="00:00:07,740" out="00:00:15,540"/>
+    <entry producer="producer47" in="00:00:00,160" out="00:00:05,020"/>
     <entry producer="producer48" in="00:00:00,000" out="00:00:08,420"/>
     <entry producer="producer49" in="00:00:09,920" out="00:00:21,360"/>
   </playlist>
-  <producer id="producer50" title="Anonymous Submission" in="00:00:00,000" out="00:01:21,420">
-    <property name="length">00:01:21,440</property>
-    <property name="eof">pause</property>
-    <property name="resource">audio/Old Movie Projector Sound Effect.mp3</property>
-    <property name="audio_index">0</property>
-    <property name="video_index">-1</property>
-    <property name="mute_on_pause">0</property>
-    <property name="mlt_service">avformat-novalidate</property>
-    <property name="seekable">1</property>
-    <property name="shotcut:hash">79fe29440136d40a5be630aeda95aa04</property>
-    <property name="ignore_points">0</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-    <property name="shotcut:caption">Old Movie Projector Sound Effect.mp3</property>
-    <property name="shotcut:detail">audio/Old Movie Projector Sound Effect.mp3</property>
-    <property name="shotcut:comment"></property>
-    <filter id="filter7" out="00:00:07,980">
-      <property name="window">75</property>
-      <property name="max_gain">20dB</property>
-      <property name="level">370=0; 383=-60</property>
-      <property name="mlt_service">volume</property>
-      <property name="shotcut:filter">fadeOutVolume</property>
-      <property name="shotcut:animOut">14</property>
-      <property name="disable">1</property>
-    </filter>
-  </producer>
-  <producer id="producer51" title="Anonymous Submission" in="00:00:00,000" out="00:03:53,300">
-    <property name="length">00:03:53,320</property>
-    <property name="eof">pause</property>
-    <property name="resource">audio/Hyperfun.mp3</property>
-    <property name="audio_index">0</property>
-    <property name="video_index">-1</property>
-    <property name="mute_on_pause">0</property>
-    <property name="mlt_service">avformat-novalidate</property>
-    <property name="seekable">1</property>
-    <property name="shotcut:hash">c9bad66c247d2bc73ab15896211d6e10</property>
-    <property name="ignore_points">0</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-    <property name="shotcut:caption">Hyperfun.mp3</property>
-    <property name="shotcut:detail">audio/Hyperfun.mp3</property>
-    <property name="shotcut:comment"></property>
-  </producer>
-  <tractor id="tractor0" title="Anonymous Submission" global_feed="1" in="00:00:00,000" out="00:00:00,300">
-    <property name="shotcut:transition">lumaMix</property>
-    <track producer="producer50" in="00:00:07,680" out="00:00:07,980"/>
-    <track producer="producer51" in="00:00:00,000" out="00:00:00,300"/>
-    <transition id="transition0" out="00:00:00,300">
-      <property name="a_track">0</property>
-      <property name="b_track">1</property>
-      <property name="factory">loader</property>
-      <property name="mlt_service">luma</property>
-    </transition>
-    <transition id="transition1" out="00:00:00,300">
-      <property name="a_track">0</property>
-      <property name="b_track">1</property>
-      <property name="mlt_service">mix</property>
-      <property name="start">-1</property>
-      <property name="accepts_blanks">1</property>
-    </transition>
-  </tractor>
   <producer id="producer52" title="Anonymous Submission" in="00:00:00,000" out="00:03:53,300">
     <property name="length">00:03:53,320</property>
     <property name="eof">pause</property>
@@ -1195,9 +1184,8 @@ hrdě uvádí celotáborovou hru</property>
   <playlist id="playlist1">
     <property name="shotcut:audio">1</property>
     <property name="shotcut:name">A1</property>
-    <entry producer="producer50" in="00:00:00,000" out="00:00:07,660"/>
-    <entry producer="tractor0" in="00:00:00,000" out="00:00:00,300"/>
-    <entry producer="producer52" in="00:00:00,320" out="00:01:54,640"/>
+    <blank length="00:00:07,680"/>
+    <entry producer="producer52" in="00:00:00,000" out="00:01:54,640"/>
     <blank length="00:00:03,760"/>
     <entry producer="producer53" in="00:00:21,400" out="00:00:37,280"/>
   </playlist>
@@ -1228,7 +1216,7 @@ hrdě uvádí celotáborovou hru</property>
       <property name="transition.threads">0</property>
     </filter>
   </producer>
-  <producer id="producer55" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,320">
+  <producer id="producer55" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,800">
     <property name="length">04:00:00,000</property>
     <property name="eof">pause</property>
     <property name="resource">logo/Frame_PartiallyTransparent.png</property>
@@ -1241,7 +1229,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <filter id="filter10" out="00:00:04,320">
+    <filter id="filter10" out="00:00:04,800">
       <property name="argument">Loading . . .</property>
       <property name="geometry">-13,6979%/-9,53704%:100%x100%</property>
       <property name="family">Verdana</property>
@@ -1266,8 +1254,8 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:name">V2</property>
     <blank length="00:00:02,580"/>
     <entry producer="producer54" in="00:00:02,580" out="00:00:04,980"/>
-    <blank length="00:00:36,500"/>
-    <entry producer="producer55" in="00:00:00,000" out="00:00:04,320"/>
+    <blank length="00:00:36,320"/>
+    <entry producer="producer55" in="00:00:00,000" out="00:00:04,800"/>
   </playlist>
   <producer id="producer56" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,980">
     <property name="length">04:00:00,000</property>
@@ -1309,6 +1297,32 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:name">V3</property>
     <entry producer="producer56" in="00:00:00,000" out="00:00:04,980"/>
   </playlist>
+  <producer id="producer50" title="Anonymous Submission" in="00:00:00,000" out="00:01:21,420">
+    <property name="length">00:01:21,440</property>
+    <property name="eof">pause</property>
+    <property name="resource">audio/Old Movie Projector Sound Effect.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="shotcut:hash">79fe29440136d40a5be630aeda95aa04</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Old Movie Projector Sound Effect.mp3</property>
+    <property name="shotcut:detail">audio/Old Movie Projector Sound Effect.mp3</property>
+    <property name="shotcut:comment"></property>
+    <filter id="filter7" out="00:00:07,920">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">383=0; 396=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">14</property>
+      <property name="disable">1</property>
+    </filter>
+  </producer>
   <producer id="producer57" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,620">
     <property name="length">00:00:04,640</property>
     <property name="eof">pause</property>
@@ -1329,10 +1343,11 @@ hrdě uvádí celotáborovou hru</property>
   <playlist id="playlist4">
     <property name="shotcut:audio">1</property>
     <property name="shotcut:name">A2</property>
-    <blank length="00:02:02,040"/>
+    <entry producer="producer50" in="00:00:00,000" out="00:00:07,920"/>
+    <blank length="00:01:54,100"/>
     <entry producer="producer57" in="00:00:00,000" out="00:00:04,620"/>
   </playlist>
-  <tractor id="tractor1" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:39,820">
+  <tractor id="tractor2" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:39,820">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:scaleFactor">1,01</property>
@@ -1342,56 +1357,56 @@ hrdě uvádí celotáborovou hru</property>
     <track producer="playlist2"/>
     <track producer="playlist3"/>
     <track producer="playlist4" hide="video"/>
-    <transition id="transition2">
-      <property name="a_track">0</property>
-      <property name="b_track">1</property>
-      <property name="mlt_service">mix</property>
-      <property name="always_active">1</property>
-      <property name="sum">1</property>
-    </transition>
-    <transition id="transition3">
-      <property name="a_track">0</property>
-      <property name="b_track">1</property>
-      <property name="version">0,9</property>
-      <property name="mlt_service">frei0r.cairoblend</property>
-      <property name="disable">1</property>
-    </transition>
     <transition id="transition4">
       <property name="a_track">0</property>
-      <property name="b_track">2</property>
+      <property name="b_track">1</property>
       <property name="mlt_service">mix</property>
       <property name="always_active">1</property>
       <property name="sum">1</property>
     </transition>
     <transition id="transition5">
       <property name="a_track">0</property>
-      <property name="b_track">3</property>
+      <property name="b_track">1</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
       <property name="mlt_service">mix</property>
       <property name="always_active">1</property>
       <property name="sum">1</property>
     </transition>
-    <transition id="transition6">
-      <property name="a_track">1</property>
-      <property name="b_track">3</property>
-      <property name="version">0,9</property>
-      <property name="mlt_service">frei0r.cairoblend</property>
-      <property name="disable">0</property>
-    </transition>
     <transition id="transition7">
       <property name="a_track">0</property>
-      <property name="b_track">4</property>
+      <property name="b_track">3</property>
       <property name="mlt_service">mix</property>
       <property name="always_active">1</property>
       <property name="sum">1</property>
     </transition>
     <transition id="transition8">
       <property name="a_track">1</property>
-      <property name="b_track">4</property>
+      <property name="b_track">3</property>
       <property name="version">0,9</property>
       <property name="mlt_service">frei0r.cairoblend</property>
       <property name="disable">0</property>
     </transition>
     <transition id="transition9">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0,9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition11">
       <property name="a_track">0</property>
       <property name="b_track">5</property>
       <property name="mlt_service">mix</property>
