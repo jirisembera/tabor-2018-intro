@@ -38,7 +38,8 @@ Varianta 1 s texty:
 Bonusy:
 	- Hudba:
 		Kevin MacLeod - who likes to party
-
+	- Zizkova operace
+		- Nejprve zvuk zvajiciho zizky, pak fade in videa
 
 
 
