@@ -346,13 +346,13 @@ hrdě uvádí celotáborovou hru</property>
   <producer id="producer15" title="Anonymous Submission" in="00:00:00,000" out="00:00:04,560">
     <property name="length">00:00:04,580</property>
     <property name="eof">pause</property>
-    <property name="resource">2,2:video/99-misk/00074.MTS</property>
+    <property name="resource">3:video/99-misk/00074.MTS</property>
     <property name="aspect_ratio">1</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">1</property>
-    <property name="warp_speed">2,2</property>
+    <property name="warp_speed">3</property>
     <property name="warp_resource">video/99-misk/00074.MTS</property>
     <property name="mlt_service">timewarp</property>
     <property name="shotcut:producer">avformat</property>
@@ -766,9 +766,9 @@ hrdě uvádí celotáborovou hru</property>
     <transition id="transition1">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
       <property name="start">-1</property>
       <property name="accepts_blanks">1</property>
-      <property name="mlt_service">mix</property>
     </transition>
   </tractor>
   <producer id="producer34" title="Anonymous Submission" in="00:00:00,000" out="00:00:27,560">
@@ -1036,8 +1036,28 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:detail">video/99-misk/00059.MTS</property>
     <property name="shotcut:comment">
 </property>
+    <filter id="filter6" in="00:00:07,740" out="00:00:15,540">
+      <property name="argument">Startujeme
+11.8.2018</property>
+      <property name="geometry">-0,46875%/18,3333%:100%x100%</property>
+      <property name="family">Verdana</property>
+      <property name="size">160</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">top</property>
+      <property name="outline">7</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">120</property>
+    </filter>
   </producer>
-  <producer id="producer47" title="Anonymous Submission" in="00:00:00,160" out="00:00:05,020">
+  <producer id="producer47" title="Anonymous Submission" in="00:00:00,160" out="00:00:04,800">
     <property name="length">04:00:00,000</property>
     <property name="eof">pause</property>
     <property name="resource">logo/SpolecneFoto.jpg</property>
@@ -1050,13 +1070,33 @@ hrdě uvádí celotáborovou hru</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <filter id="filter6" in="00:00:00,160" out="00:00:05,020">
+    <filter id="filter7" in="00:00:00,160" out="00:00:04,800">
+      <property name="argument">Z kosmického přístavu
+v Rabštejnské Lhotě</property>
+      <property name="geometry">0%/0%:100%x100%</property>
+      <property name="family">Verdana</property>
+      <property name="size">160</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#ff000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">120</property>
+    </filter>
+    <filter id="filter8" in="00:00:00,160" out="00:00:04,800">
       <property name="start">1</property>
-      <property name="level">204=1;243=0</property>
+      <property name="level">197=1;232=0</property>
       <property name="mlt_service">brightness</property>
       <property name="shotcut:filter">fadeOutBrightness</property>
       <property name="alpha">1</property>
-      <property name="shotcut:animOut">40</property>
+      <property name="shotcut:animOut">36</property>
     </filter>
   </producer>
   <producer id="producer48" title="Anonymous Submission" in="00:00:00,000" out="00:04:59,980">
@@ -1089,7 +1129,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:hash">05d17da336d7e837d6c022ad2f2f05da</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <property name="shotcut:caption">video/11/00043.MTS (3x)</property>
+    <property name="shotcut:caption">video/11/00043.MTS (2x)</property>
     <property name="shotcut:detail">video/11/00043.MTS</property>
     <property name="shotcut:comment"></property>
   </producer>
@@ -1103,7 +1143,7 @@ hrdě uvádí celotáborovou hru</property>
     <entry producer="producer12" in="00:00:02,760" out="00:00:08,400"/>
     <entry producer="producer13" in="00:00:00,000" out="00:00:02,780"/>
     <entry producer="producer14" in="00:00:10,320" out="00:00:15,880"/>
-    <entry producer="producer15" in="00:00:00,900" out="00:00:02,060"/>
+    <entry producer="producer15" in="00:00:00,600" out="00:00:01,760"/>
     <entry producer="producer16" in="00:00:13,720" out="00:00:19,780"/>
     <entry producer="producer17" in="00:00:03,820" out="00:00:05,840"/>
     <entry producer="producer18" in="00:00:10,540" out="00:00:11,980"/>
@@ -1137,9 +1177,9 @@ hrdě uvádí celotáborovou hru</property>
     <entry producer="producer44" in="00:00:06,740" out="00:00:10,420"/>
     <entry producer="producer45" in="00:00:00,000" out="00:00:04,880"/>
     <entry producer="producer46" in="00:00:07,740" out="00:00:15,540"/>
-    <entry producer="producer47" in="00:00:00,160" out="00:00:05,020"/>
-    <entry producer="producer48" in="00:00:00,000" out="00:00:08,420"/>
-    <entry producer="producer49" in="00:00:09,920" out="00:00:21,360"/>
+    <entry producer="producer47" in="00:00:00,160" out="00:00:04,800"/>
+    <entry producer="producer48" in="00:00:00,000" out="00:00:07,980"/>
+    <entry producer="producer49" in="00:00:08,300" out="00:00:23,240"/>
   </playlist>
   <producer id="producer52" title="Anonymous Submission" in="00:00:00,000" out="00:03:53,300">
     <property name="length">00:03:53,320</property>
@@ -1174,7 +1214,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:caption">Take a Chance.mp3</property>
     <property name="shotcut:detail">audio/Take a Chance.mp3</property>
     <property name="shotcut:comment"></property>
-    <filter id="filter8" in="00:00:21,400" out="00:00:37,280">
+    <filter id="filter9" in="00:00:21,400" out="00:00:37,280">
       <property name="window">75</property>
       <property name="max_gain">20dB</property>
       <property name="level">-8,7</property>
@@ -1202,7 +1242,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <filter id="filter9" in="00:00:02,580" out="00:00:04,980">
+    <filter id="filter10" in="00:00:02,580" out="00:00:04,980">
       <property name="background">colour:0</property>
       <property name="mlt_service">affine</property>
       <property name="shotcut:filter">affineSizePosition</property>
@@ -1229,7 +1269,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <filter id="filter10" out="00:00:04,800">
+    <filter id="filter11" out="00:00:04,800">
       <property name="argument">Loading . . .</property>
       <property name="geometry">-13,6979%/-9,53704%:100%x100%</property>
       <property name="family">Verdana</property>
@@ -1270,7 +1310,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="ignore_points">0</property>
     <property name="global_feed">1</property>
     <property name="xml">was here</property>
-    <filter id="filter11" out="00:00:04,980">
+    <filter id="filter12" out="00:00:04,980">
       <property name="argument">* Nemusí se shodovat s reálným názvem**
 ** Opravdový název je: Divoké historky vesmírných kovbojů</property>
       <property name="geometry">-0,520833%/0%:100%x100%</property>
@@ -1313,7 +1353,7 @@ hrdě uvádí celotáborovou hru</property>
     <property name="shotcut:caption">Old Movie Projector Sound Effect.mp3</property>
     <property name="shotcut:detail">audio/Old Movie Projector Sound Effect.mp3</property>
     <property name="shotcut:comment"></property>
-    <filter id="filter7" out="00:00:07,920">
+    <filter id="filter13" out="00:00:07,920">
       <property name="window">75</property>
       <property name="max_gain">20dB</property>
       <property name="level">383=0; 396=-60</property>
@@ -1347,7 +1387,7 @@ hrdě uvádí celotáborovou hru</property>
     <blank length="00:01:54,100"/>
     <entry producer="producer57" in="00:00:00,000" out="00:00:04,620"/>
   </playlist>
-  <tractor id="tractor2" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:39,820">
+  <tractor id="tractor2" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:42,660">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:scaleFactor">1,01</property>
