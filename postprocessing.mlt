@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mlt LC_NUMERIC="cs_CZ" version="6.9.0" title="Shotcut version 18.06.02" producer="main bin">
-  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1920" display_aspect_den="1080" frame_rate_num="50" frame_rate_den="1" colorspace="709"/>
-  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
-    <property name="length">00:04:01,020</property>
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60000" frame_rate_den="1001" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00,000" out="00:03:21,038">
+    <property name="length">00:04:01,018</property>
     <property name="eof">pause</property>
     <property name="resource">intro_concat.mp4</property>
     <property name="audio_index">1</property>
@@ -19,10 +19,10 @@
   <playlist id="main bin" title="Shotcut version 18.06.02">
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="xml_retain">1</property>
-    <entry producer="producer0" in="00:00:00,000" out="00:04:01,000"/>
+    <entry producer="producer0" in="00:00:00,000" out="00:03:21,038"/>
   </playlist>
-  <producer id="black" in="00:00:00,000" out="00:02:42,760">
-    <property name="length">00:02:42,780</property>
+  <producer id="black" in="00:00:00,000" out="00:02:20,921">
+    <property name="length">00:02:20,938</property>
     <property name="eof">pause</property>
     <property name="resource">black</property>
     <property name="aspect_ratio">1</property>
@@ -30,10 +30,10 @@
     <property name="set.test_audio">0</property>
   </producer>
   <playlist id="background">
-    <entry producer="black" in="00:00:00,000" out="00:02:42,760"/>
+    <entry producer="black" in="00:00:00,000" out="00:02:20,921"/>
   </playlist>
-  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
-    <property name="length">00:04:01,020</property>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00,000" out="00:03:21,038">
+    <property name="length">00:03:21,054</property>
     <property name="eof">pause</property>
     <property name="resource">intro_concat.mp4</property>
     <property name="audio_index">1</property>
@@ -49,7 +49,7 @@
     <property name="shotcut:caption">intro_concat.mp4</property>
     <property name="shotcut:detail">intro_concat.mp4</property>
     <property name="shotcut:comment"></property>
-    <filter id="filter0" out="00:02:07,160">
+    <filter id="filter0" out="00:02:04,855">
       <property name="maxdiameter">2</property>
       <property name="maxcount">8</property>
       <property name="mlt_service">dust</property>
@@ -71,7 +71,7 @@
       <property name="cache-dy-2-19">11</property>
       <property name="cache-dy-1-19">25</property>
     </filter>
-    <filter id="filter1" out="00:02:07,160">
+    <filter id="filter1" out="00:02:04,855">
       <property name="delta">0</property>
       <property name="every">0</property>
       <property name="brightnessdelta_up">18</property>
@@ -82,7 +82,7 @@
       <property name="unevendevelop_duration">119</property>
       <property name="mlt_service">oldfilm</property>
     </filter>
-    <filter id="filter2" out="00:02:07,160">
+    <filter id="filter2" out="00:02:04,855">
       <property name="noise">10</property>
       <property name="contrast">100</property>
       <property name="brightness">100</property>
@@ -90,35 +90,17 @@
       <property name="shotcut:animIn">0</property>
       <property name="shotcut:animOut">0</property>
     </filter>
-    <filter id="filter3" out="00:02:07,160">
+    <filter id="filter3" out="00:02:04,855">
       <property name="start">1</property>
-      <property name="level">6309=1;6358=0</property>
+      <property name="level">7424=1;7483=0</property>
       <property name="mlt_service">brightness</property>
       <property name="shotcut:filter">fadeOutBrightness</property>
       <property name="alpha">1</property>
-      <property name="shotcut:animOut">50</property>
+      <property name="shotcut:animOut">60</property>
     </filter>
   </producer>
-  <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
-    <property name="length">00:04:01,020</property>
-    <property name="eof">pause</property>
-    <property name="resource">intro_concat.mp4</property>
-    <property name="audio_index">1</property>
-    <property name="video_index">0</property>
-    <property name="mute_on_pause">0</property>
-    <property name="mlt_service">avformat-novalidate</property>
-    <property name="seekable">1</property>
-    <property name="aspect_ratio">1</property>
-    <property name="shotcut:hash">6a718ef98537762ff98060798b80738c</property>
-    <property name="ignore_points">0</property>
-    <property name="global_feed">1</property>
-    <property name="xml">was here</property>
-    <property name="shotcut:caption">intro_concat.mp4</property>
-    <property name="shotcut:detail">intro_concat.mp4</property>
-    <property name="shotcut:comment"></property>
-  </producer>
-  <producer id="producer3" title="Anonymous Submission" in="00:00:00,000" out="00:04:01,000">
-    <property name="length">00:04:01,020</property>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00,000" out="00:03:21,038">
+    <property name="length">00:03:21,054</property>
     <property name="eof">pause</property>
     <property name="resource">intro_concat.mp4</property>
     <property name="audio_index">1</property>
@@ -138,11 +120,10 @@
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="producer1" in="00:00:00,000" out="00:02:07,160"/>
-    <entry producer="producer2" in="00:02:07,180" out="00:02:21,000"/>
-    <entry producer="producer3" in="00:02:21,020" out="00:02:42,760"/>
+    <entry producer="producer1" in="00:00:00,000" out="00:02:04,855"/>
+    <entry producer="producer2" in="00:02:04,872" out="00:02:20,921"/>
   </playlist>
-  <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:42,760">
+  <tractor id="tractor0" title="Shotcut version 18.06.02" global_feed="1" in="00:00:00,000" out="00:02:20,921">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <track producer="background"/>
